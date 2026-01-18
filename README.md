@@ -1,6 +1,6 @@
-# 🕹️ Paddle Ball Game in 8086 Assembly
+# 🕹️ Bounce Ball Game in 8086 Assembly
 
-A classic paddle-ball game built entirely in **8086 Assembly**, using BIOS and DOS interrupts for graphics, input handling, and timing. The game mimics the retro arcade style where a ball bounces off walls and a paddle, and the player must prevent it from hitting the ground.
+A classic bounce-ball game built entirely in **8086 Assembly**, using BIOS and DOS interrupts for graphics, input handling, and timing. The game mimics the retro arcade style where a ball bounces off walls and a paddle, and the player must prevent it from hitting the ground.
 
 ---
 
